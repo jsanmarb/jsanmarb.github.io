@@ -22,7 +22,7 @@ title: El nuevo blog de Juan Carlos San Martín
 email: jsanmarb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   En este blog plasmaré mis ideas sobre los más diversos temas.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsanmarb.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jsanmarb
 github_username:  jsanmarb

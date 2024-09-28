@@ -35,6 +35,8 @@ Supongamos que el único delito posible no es muy grave y tiene una pena sólo d
 | 82   | 8º   | 1 año   | 64   | 64 años   |
 {: rules="groups"}
 
+Vemos que con nuestra propuesta, el delincuente contumaz sólo pudo realizar 8 veces el mismo delito a lo largo de su vida. Sin ella, y asumiendo una esperanza de vida de 88 años, el delincuente podría haber efectuado el mismo delito 70 veces.
+
 
 # Beneficios
 

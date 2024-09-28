@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ha partido el Moquito"
-date:   2024-09-26 20:04:00 -0300
+date:   2024-09-27 21:50:00 -0300
 #categories: jekyll update
 comments: true
 tags: personal gatos moco
